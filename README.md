@@ -8,11 +8,11 @@ This tool for hacker Facebook list friend ...
 ```
 $ pkg update pkg upgrade -y
 ```
-
 ```
 $ pkg install python -y
 ```
-$ pkg install python2 
+```
+$ pkg install python2 -y
 ```
 $ pkg install git -y
 ```
