@@ -46,6 +46,8 @@ python2 ReKuShE.pyc
 
 ## watch this video :
 
+https://youtu.be/f_kTUhygzmA
+
 ## my channel telegram: 
 https://t.me/Professional_school
 
