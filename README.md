@@ -44,6 +44,8 @@ python2 ReKuShE.pyc
 ![tenor](https://user-images.githubusercontent.com/70316694/98064290-0803e280-1e63-11eb-80b8-fec5676b33b0.gif)
 
 
+password and username: ReKuShE
+
 ## watch this video :
 
 https://youtu.be/f_kTUhygzmA
