@@ -29,7 +29,15 @@ $ pip install bs4
 ```
 $ git clone https://github.com/iraq-hacker/hacker-friend
 ```
-
+```
+cd hacker-Friend
+```
+```
+chmod +x *
+```
+```
+python2 ReKuShE.pyc
+```
 
 ## Gif For hack 
 
