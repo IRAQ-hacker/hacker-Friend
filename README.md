@@ -14,11 +14,15 @@ $ pkg install python -y
 ```
 $ pkg install python2 -y
 ```
+```
 $ pkg install git -y
+```
 ```
 $ pip install requests
 ```
+```
 $ pip install bs4
+```
 ```
 $ git clone https://github.com/iraq-hacker/hacker-friend
 ```
