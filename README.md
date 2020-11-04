@@ -4,7 +4,7 @@ This tool for hacker Facebook list friend ...
 
 ## Use the tool:
 
-```
+
 ```
 $ pkg update pkg upgrade -y
 ```
@@ -12,18 +12,13 @@ $ pkg install python -y
 ```
 $ pkg install python2 
 ```
-```
 $ pkg install git -y
-```
 ```
 $ pip install requests
 ```
-```
 $ pip install bs4
 ```
-```
 $ git clone https://github.com/iraq-hacker/hacker-friend
-```
 ```
 
 ## watch this video :
